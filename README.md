@@ -1,6 +1,3 @@
-# Assignment 1: Python Programs
-
-This repository contains solutions for Assign
 # 🐍 Assignment 1: Python Programs
 
 This repository contains solutions for **Assignment 1**, consisting of two beginner-level Python programming tasks. The aim is to demonstrate basic input/output operations, arithmetic calculations, and string formatting in Python.
