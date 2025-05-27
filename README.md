@@ -1,5 +1,5 @@
-# 🐍 Assignment 1: Python Programs
-# 📖 Module 2: Basic Python Concepts
+# Assignment 1: Python Programs
+# Module 2: Basic Python Concepts
 
 This repository contains solutions for **Assignment 1**, consisting of two beginner-level Python programming tasks. The aim is to demonstrate basic input/output operations, arithmetic calculations, and string formatting in Python.
 
@@ -8,11 +8,7 @@ This repository contains solutions for **Assignment 1**, consisting of two begin
 ## 📌 Task 1: Basic Mathematical Operations
 
 This Python script accepts **two numbers** from the user and performs the following mathematical operations:
-
-- ✅ Addition  
-- ✅ Subtraction  
-- ✅ Multiplication  
-- ✅ Division  
+Addition, Subtraction, Multiplication, Division  
 
 ### 📄 File Name
 
@@ -30,11 +26,11 @@ This Python script accepts **two numbers** from the user and performs the follow
 ### 💡 Example Output
 
 ```
-Enter the first number: 5  
-Enter the second number: 10  
-Addition:  15  
-Subtraction:  -5  
-Multiplication:  50  
+Enter the first number: 1  
+Enter the second number: 2  
+Addition:  3  
+Subtraction:  -1  
+Multiplication:  2  
 Division:  0.5  
 ```
 
@@ -60,9 +56,9 @@ This Python script collects the user's **first and last name** and displays a pe
 ### 💡 Example Output
 
 ```
-Enter your first name: John  
-Enter your last name: Doe  
-Hello, John Doe! Welcome to the Python Program.  
+Enter your first name: Shashank  
+Enter your last name: Singh Patel  
+Hello, Shashank Singh Patel! Welcome to the Python Program.  
 ```
 
 ## 📁 Repository Structure
