@@ -1,4 +1,5 @@
 # 🐍 Assignment 1: Python Programs
+# Module 2: Basic Python Concepts
 
 This repository contains solutions for **Assignment 1**, consisting of two beginner-level Python programming tasks. The aim is to demonstrate basic input/output operations, arithmetic calculations, and string formatting in Python.
 
